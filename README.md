@@ -1,6 +1,6 @@
 # Analyse statistique de la Formule 1 (1950–2024)
 
-Projet académique réalisé en équipe de trois (Maram Chaouch, Eya Touati, Shahd Kdaiem) dans le cadre de la licence Big Data et Analyse de Données (ISAMM & ESCT, Université de la Manouba), avril – mai 2026.
+Projet académique réalisé par Maram Chaouch dans le cadre de la licence Big Data et Analyse de Données (ISAMM & ESCT, Université de la Manouba), avril – mai 2026.
 
 L'objectif est d'appliquer les méthodes statistiques vues en cours sur un jeu de données réel : 74 ans de courses de Formule 1.
 
@@ -71,4 +71,4 @@ install.packages(c("dplyr", "tidyr", "ggplot2", "plotrix", "FactoMineR",
 
 ## In short (English)
 
-Statistical analysis of Formula 1 results from 1950 to 2024 (Kaggle dataset, 14 CSV files, 26,499 race results, 859 drivers), written in R. It covers data cleaning, univariate, bivariate and multivariate analysis (PCA, CA, multiple regression) and K-means clustering of 376 drivers into 3 profiles. Team project (3 students). See `analyse_f1.R` for the code and `Project_F1.pdf` for the full report (in French).
+Statistical analysis of Formula 1 results from 1950 to 2024 (Kaggle dataset, 14 CSV files, 26,499 race results, 859 drivers), written in R. It covers data cleaning, univariate, bivariate and multivariate analysis (PCA, CA, multiple regression) and K-means clustering of 376 drivers into 3 profiles. Academic project. See `analyse_f1.R` for the code and `Project_F1.pdf` for the full report (in French).

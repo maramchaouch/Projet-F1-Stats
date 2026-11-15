@@ -1,6 +1,6 @@
 # =============================================================================
 # Analyse statistique de la Formule 1 (1950-2024)
-# Auteures : Maram Chaouch, Eya Touati, Shahd Kdaiem
+# Projet academique - Maram Chaouch (ISAMM & ESCT)
 # Donnees  : Formula 1 World Championship (Kaggle), 14 fichiers CSV
 #
 # Script reconstruit a partir du rapport PDF du projet (Project_F1.pdf).
